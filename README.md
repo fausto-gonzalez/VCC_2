@@ -9,7 +9,7 @@ Practice using Git and GitHub to manage files, track issues, work with branches,
 ## Assignment Checklist
 
 - [x] Create the repository and initial commit.
-- [ ] Create five files after the initial commit.
+- [x] Create five files after the initial commit.
 - [ ] Create five issues, including one bug report.
 - [ ] Use a separate branch for each issue.
 - [ ] Complete the changes and open pull requests.
