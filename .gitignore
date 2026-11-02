@@ -38,6 +38,9 @@ Thumbs.db
 
 # Specific files to ignore #
 ##########################
-Agenda*.md
 Screenshot*.png
 terminal.png
+
+# Ignore Markdown files except README.md
+*.md
+!README.md
